@@ -1,5 +1,4 @@
 import React, { Suspense, lazy } from 'react';
-import { Button } from './ui/button';
 
 const Spline = lazy(() => import('@splinetool/react-spline'));
 
